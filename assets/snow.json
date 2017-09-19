@@ -15,12 +15,22 @@
     },
     "move": {
       "enable": true,
-      "speed": 2,
+      "speed": 3,
       "direction": "bottom",
       "straight": false
     }
   },
   "interactivity": {
-     
+    "detect_on": "canvas",
+    "events": {
+      "onhover": {
+        "enable": false
+      }
+    },
+    "modes": {
+      "push": {
+        "particles_nb": 12
+      }
+    }
   }
 }
