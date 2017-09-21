@@ -8,7 +8,7 @@ I've been putting off this side project for a while, but finally decided to get 
 
 Here it is.
 
-While I'm not sure if I ever want to steamline the content on here, I do have some ideas.
+While I'm not sure if I ever want to streamline the content on here, I do have some ideas.
 
 Things that I am interested in:
 
@@ -23,6 +23,6 @@ Things that I am interested in:
 * Exploration
 
 
-We're going to start off with a mix of these and the blog is part of my new committment to investing in myself daily, at least a little bit.
+We're going to start off with a mix of these and the blog is part of my new commitment to investing in myself daily, at least a little bit.
 
 Incremental progress works and a blog is a good fit to track that. We're going to be reading technical documentation, improving our bodies, and learning how to live on here. Let's go.
