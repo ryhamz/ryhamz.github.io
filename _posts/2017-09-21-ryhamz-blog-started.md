@@ -16,11 +16,13 @@ Things that I am interested in:
 
 * Basketball
 
-* Motorcycle
+* Motorcycles
 
 * Startups
 
 * Exploration
 
 
-We're going to start off with a mix of these and the blog is part of my new committment to investing in myself daily, at least a little bit. Incremental progress works and a blog is a good fit to track that. We're going to be reading technical documentation, improving our bodies, and learning how to live on here. Let's go.
+We're going to start off with a mix of these and the blog is part of my new committment to investing in myself daily, at least a little bit.
+
+Incremental progress works and a blog is a good fit to track that. We're going to be reading technical documentation, improving our bodies, and learning how to live on here. Let's go.
